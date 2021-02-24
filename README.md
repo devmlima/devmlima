@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Olá mundo! 👋🏾
+### :computer: Desenvolvedor Web 
+### Meu foco principal é o FrontEnd. Trabalho com React, React Native, Angular e conhecimento sólido em JavaScript/TypeScript. Além desses frameworks, conheço alguns serviços da AWS e NodeJS.
 <!--
 **devmlima/devmlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

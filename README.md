@@ -1,7 +1,7 @@
 ### Olá mundo! 👋🏾
 ### :computer: Desenvolvedor Web 
-### Meu foco principal é o FrontEnd. Trabalho com React, React Native, Angular e conhecimento sólido em JavaScript/TypeScript. Além desses frameworks, conheço alguns serviços da AWS e NodeJS.
-### Me chama lá no Linkedin -> https://www.linkedin.com/in/matheus-lima-9344a7140/
+### ⚡ Desenvolvedor Web Full Stack | Angular | React Native | NodeJS | Postegres
+### 💬 Iniciando uma jornada em Flutter.Me chama lá no Linkedin -> https://www.linkedin.com/in/matheus-lima-9344a7140/
 <!--
 **devmlima/devmlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

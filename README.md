@@ -1,7 +1,7 @@
 ### Olá mundo! 👋🏾
 ### :computer: Desenvolvedor Web 
 ### ⚡ Desenvolvedor Web Full Stack | Angular | React Native | NodeJS | Postegres
-### 💬 Iniciando uma jornada em Flutter.Me chama lá no Linkedin -> https://www.linkedin.com/in/matheus-lima-9344a7140/
+### 💬 Iniciando uma jornada em Flutter. Me chama lá no Linkedin -> https://www.linkedin.com/in/matheus-lima-9344a7140/
 <!--
 **devmlima/devmlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,9 @@
 Fala dev &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">  
 
-<p align="left">Me chamo Matheus Lima, sou desenvolvedor Web FullStack.</p>
+<p align="left">
+   Me chamo Matheus Lima, sou desenvolvedor Web FullStack e entusiasta mobile. Meu foco é aprender cada dia mais. &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">  
+
+</p>
 <br />
 <p align="left">Atualmente trabalho com as seguintes tecnologias:</p>
 <br />

@@ -20,9 +20,9 @@ Fala dev &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 
 Para entrar em contato:
  <a href="https://www.linkedin.com/in/matheus-lima-9344a7140/" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.instagram.com/_itheu/" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.instagram.com/_itheu/" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="html5" width="40" height="40"/> </a>
 
-<summary>Um pouco do meu dia a dia</summary>
+<p align="center">Um pouco do meu dia a dia</p>
 <br />
 
 <p align="center">

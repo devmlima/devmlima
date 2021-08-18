@@ -1,4 +1,4 @@
-Fala dev &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">  
+<h1>Fala dev &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">  </h1>
 
 <p align="left">
    Me chamo Matheus Lima, sou desenvolvedor Web FullStack e entusiasta mobile. Meu foco é aprender cada dia mais. &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">  
@@ -19,10 +19,11 @@ Fala dev &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 </p>
 
 Para entrar em contato:
+<br />
  <a href="https://www.linkedin.com/in/matheus-lima-9344a7140/" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.instagram.com/_itheu/" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="html5" width="40" height="40"/> </a>
 
-<p align="center">Um pouco do meu dia a dia</p>
+<h2 align="center">Um pouco do meu dia a dia</h2>
 <br />
 
 <p align="center">

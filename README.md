@@ -15,7 +15,7 @@ Clean Architecture · Serverless · REST APIs · JWT Auth
 ## 📌 Sobre mim
 
 - +7 anos de experiência
-- Tech Lead que ainda escreve código — e prefiro assim
+- Tech Lead que ainda escreve código e prefiro assim
 - Gosto de sistemas bem estruturados, código limpo e decisões técnicas que fazem sentido no negócio
 - Quando não estou na tela, estou na várzea no sábado
 
